@@ -45,7 +45,6 @@ const Profile = () => {
         //}
 
     //}
-    const qrCode = (qr + api + "/users/" + id)
 
     if(loading){
         return <p>Carregando...</p>
