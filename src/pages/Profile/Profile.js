@@ -1,7 +1,7 @@
 import "./Profile.css"
 
 import { requestConfig, uploads } from "../../utils/config"
-import {api, qr} from '../../utils/config'
+import {api} from '../../utils/config'
 //components
 import Message from "../../components/Message"
 import { Link } from "react-router-dom"
