@@ -58,7 +58,6 @@ const Profile = () => {
             <div className="profile-description">
                 <h2>{user.name}</h2>
                 <p>{user.bio}</p>
-                <img src={qrCode}/>
             </div>
         </div>
     </div>
